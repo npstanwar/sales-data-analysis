@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter/
+
+# Environment
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
